@@ -1,13 +1,23 @@
+0] Grab a strong coffee, nothing else important than this in morning.
 1] First, in the morning, check the outlook for any updates or new tasks.
 2] We have to do POD management and multiple application deployments on different Kubernetes clusters, like dev and production. We received a notification via email about the project where PODS are having issues. Mostly contain CrashLoopBackOff issues. Check the logs in this and take necessary actions.
 3] In the company, there are already deployed-based projects running. If your manager asks you to check the new tool in the pipeline, we don't need to build a new pipeline from scratch or check the already built CI/CD pipeline status to see if it's working.
-4] DSTUM [Daily Standard Meeting]: In this daily meeting, people share why they are doing their tasks today, or already did, and problems they are stuck on. So, if possible, all of the people solve it. 
+4] DSTUM [Daily Standard Meeting]: In this daily meeting, people share why they are doing their tasks today, or already did, and problems they are stuck on. So, if possible, all of the people solve it.
 5] OPS [Operation meeting]: There is an infra team, and other teams get to know what tasks we are working on and problems we are facing.
 6] Repo Management: Create new branches, new project repo, groups, create a user group for different permissions, remove the remaining pending pull requests.
 7] Troubleshoot client issues, like fixing issues WRT JIRA Tickets like incident, support, task tickets.
 8] If we're not aware of any tool and the manager assigns a task, create a demo project along with detailed documentation, like the tool SonarQube and many others.
 9] IAC to write the code, like creating multiple VMs on the client within the company; manually, it's impossible, so we used Terraform and an Ansible playbook to install Nexus and SonarQube in the VMs.  
 10] Jenkins monitoring, GitLab monitoring, SonarQube Monitoring.
+11] Most important writing a python or bash scripts, things we required to automate.
+12] Documentation: note down every single points and document everything.
+
+
+
+
+
+
+
 
 
 
