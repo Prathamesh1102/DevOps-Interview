@@ -1,0 +1,4 @@
+1] What is the OSI model and it's layers?
+2] What is difference between TCP and UDP?
+3] Explain the TCP three-way handshake?
+4] What is the difference between Layer 4 and Layer 7 load balancing? (Ex. AWS NLB [L4] and AWS ALB & Nginx [L7] load balancer).
