@@ -1,1 +1,12 @@
+SYSTEM DESIGN FOUNDATION
 
+*****Distributed System*****
+1] What is system design, and why is it inportant?
+2] Explain monolithic and microservices architecture.
+3] Explain horizontal scaling and vertcal scaling.
+4] What is high availability?
+5] What is fault tolerance?
+6] What is load balancing? How does it work?
+7] What is auto-scaling?
+8] What is stateless and stateful architecture?
+9] What is eventual consistency?
